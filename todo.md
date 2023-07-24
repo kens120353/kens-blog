@@ -1,3 +1,2 @@
-- [] add tailwind
 - [] deploy
 - [] connect cloudcannon
